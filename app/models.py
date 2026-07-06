@@ -16,7 +16,7 @@ class WorkbookAnswer(BaseModel):
 
 
 class WorkbookSessionCreate(BaseModel):
-    name: str = Field(default="Гость", max_length=80)
+    name: str = Field(default="Guest", max_length=80)
     version: WorkbookVersion = "system"
     situation_ids: list[str] = Field(default_factory=list)
     answers: list[WorkbookAnswer] = Field(default_factory=list)
@@ -32,7 +32,7 @@ class WorkbookSession(BaseModel):
 
 
 class ChatMessageCreate(BaseModel):
-    author: str = Field(default="Гость", max_length=80)
+    author: str = Field(default="Guest", max_length=80)
     message: str = Field(min_length=1, max_length=500)
 
 
