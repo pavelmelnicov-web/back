@@ -12,7 +12,7 @@ WORKBOOK = {
         },
         {
             "title": "You do not always need a renovation",
-            "body": "Sometimes a space starts working after an honest edit, new storage logic, and a different arrangement of objects.",
+            "body": "Sometimes a space starts working after general cleaning, new storage logic, and a different arrangement of objects.",
         },
         {
             "title": "A good interior starts with understanding yourself",
