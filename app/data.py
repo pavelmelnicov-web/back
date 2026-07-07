@@ -34,11 +34,11 @@ WORKBOOK = {
             "id": "self-expression",
             "title": "I want my space to reflect me",
             "description": "Home becomes self-expression, but it is still unclear how to make that real.",
-            "examples": ["home content", "guests", "proud of the backdrop", "space speaks about me"],
+            "examples": ["home content", "space speaks about me"],
         },
         {
             "id": "renovation-fear",
-            "title": "I want a renovation but fear getting it wrong",
+            "title": "I want a renovation but fear mistakes",
             "description": "Renovations are expensive, and confidence in style, needs, and outcome is still missing.",
             "examples": ["what I like", "what I need", "how I will live"],
         },
