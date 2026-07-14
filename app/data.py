@@ -40,7 +40,7 @@ WORKBOOK = {
             "id": "renovation-fear",
             "title": "I want a renovation but fear mistakes",
             "description": "Renovations are expensive, and confidence in style, needs, and outcome is still missing.",
-            "examples": ["what I like", "what I need", "how I will live"],
+            "examples": ["afraid of wrong choices", "unclear renovation priorities", "need a plan before spending"],
         },
         {
             "id": "no-designer-budget",
